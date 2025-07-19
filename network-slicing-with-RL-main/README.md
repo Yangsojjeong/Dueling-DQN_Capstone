@@ -25,4 +25,4 @@ This project's environment is inspired by the work presented in the following pa
 
 > Yuxiu Hua, Rongpeng Li, Zhifeng Zhao, Xianfu Chen, Honggang Zhang, "GAN-powered Deep Distributional Reinforcement Learning for Resource Management in Network Slicing," in *IEEE Journal on Selected Areas in Communications*, vol. 38, no. 2, pp. 334–349, 2019, IEEE.
 
-
+양소정 짱이쁘당
